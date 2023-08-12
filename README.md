@@ -1,1 +1,1 @@
-# Pong-Game
+# Snake-Game
